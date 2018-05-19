@@ -1,0 +1,12 @@
+C:\Users\richi\Desktop\Fidelitas\PROGRAMACION 4\PRACTICAS\Proyecto_Csharp\Proyecto_Csharp\bin\Debug\Proyecto_Csharp.exe.config
+C:\Users\richi\Desktop\Fidelitas\PROGRAMACION 4\PRACTICAS\Proyecto_Csharp\Proyecto_Csharp\bin\Debug\Proyecto_Csharp.exe
+C:\Users\richi\Desktop\Fidelitas\PROGRAMACION 4\PRACTICAS\Proyecto_Csharp\Proyecto_Csharp\bin\Debug\Proyecto_Csharp.pdb
+C:\Users\richi\Desktop\Fidelitas\PROGRAMACION 4\PRACTICAS\Proyecto_Csharp\Proyecto_Csharp\obj\Debug\Proyecto_Csharp.csprojResolveAssemblyReference.cache
+C:\Users\richi\Desktop\Fidelitas\PROGRAMACION 4\PRACTICAS\Proyecto_Csharp\Proyecto_Csharp\obj\Debug\Proyecto_Csharp.Properties.Resources.resources
+C:\Users\richi\Desktop\Fidelitas\PROGRAMACION 4\PRACTICAS\Proyecto_Csharp\Proyecto_Csharp\obj\Debug\Proyecto_Csharp.Vistas.Empleados.FormRegistrar.resources
+C:\Users\richi\Desktop\Fidelitas\PROGRAMACION 4\PRACTICAS\Proyecto_Csharp\Proyecto_Csharp\obj\Debug\Proyecto_Csharp.csproj.GenerateResource.cache
+C:\Users\richi\Desktop\Fidelitas\PROGRAMACION 4\PRACTICAS\Proyecto_Csharp\Proyecto_Csharp\obj\Debug\Proyecto_Csharp.csproj.CoreCompileInputs.cache
+C:\Users\richi\Desktop\Fidelitas\PROGRAMACION 4\PRACTICAS\Proyecto_Csharp\Proyecto_Csharp\obj\Debug\Proyecto_Csharp.exe
+C:\Users\richi\Desktop\Fidelitas\PROGRAMACION 4\PRACTICAS\Proyecto_Csharp\Proyecto_Csharp\obj\Debug\Proyecto_Csharp.pdb
+C:\Users\richi\Desktop\Fidelitas\PROGRAMACION 4\PRACTICAS\Proyecto_Csharp\Proyecto_Csharp\obj\Debug\Proyecto_Csharp.Vistas.Empleados.FormActualizar.resources
+C:\Users\richi\Desktop\Fidelitas\PROGRAMACION 4\PRACTICAS\Proyecto_Csharp\Proyecto_Csharp\obj\Debug\Proyecto_Csharp.Vistas.Empleados.FormListar.resources
